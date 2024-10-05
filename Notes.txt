@@ -1,0 +1,55 @@
+while Loop : - 
+            performing some task repeatedly based on certain condition.
+
+        Syntax
+
+            while(condition){
+             // statements to be executed;
+            }
+
+        ex : 
+
+            while(i>=10){
+                cout<<i<<endl;
+                i++;
+            }
+
+
+do while loop:
+            in this do while loop it will first execute then check for the condition because of that reason  the do while loop it will execute once.
+
+
+        Syntax 
+
+            do{
+                // Stratement to be executed;
+            }
+            while(condition);
+
+        ex :
+
+        do{
+            cout<<i<<endl;
+            i++;
+        }
+        while(i<=5);
+
+
+for loop :
+        for loop is a looping statements that will perform number of times based on the condition;
+
+    Syntax; 
+
+        for(initial value; condition; increment;){
+            // statements to be executed;
+sta
+        }
+
+    ex : 
+
+        for (int i = 1 ;i<=10;i++;){
+            cout<<i<<endl;
+
+        } 
+
+Array : = 
